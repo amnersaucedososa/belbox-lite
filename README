@@ -1,0 +1,54 @@
+- - - - -  - - - - - - - - - - - BELBOX - Compartir archivos- - - - - - - - - - - - 
+
+	BELBOX es un sistema para compartir archivos de proposito general, codigo abierto y gratis.
+
+
+
+
+######################## BELBOX ###########################
+
+Descripcion:
+BELBOX es un sistema para compartir archivos en el que puedes rellenar tu perfil, subir cualquier tipo de archivo y sobre todo crear carpetas, buscar amigos, concedir permisos a los archivos/carpetas a tus amigos/familiares/compañeros, comentar las publicaciones, recibir notificaciones y mucho mas.
+
+
+
+
+- - - - - - - - - - - - MODULOS - - - - - - - - - - - - 
+Defino a grandes rasgos los modulos generales del sistema.
+
+1). Usuarios: Se pueden registrar para acceder a sus cuentas y asi empezar la aventura con belbox.
+
+2). Subir archivos: Cada usuario puede subir lo que quiera y lo visualizara en su muro, el cual podran ver tambien sus amigos si les concede los permisos.
+
+3). Crear carpetas: Cada usuario puede crear carpetas y lo visualizara en su muro, el cual podran ver tambien sus amigos si les concede los permisos.
+
+4). Perfiles: Los usuarios pueden rellenar su perfil.
+
+5).Comentarios: Los usuarios pueden escribir comentarios a los archivos y/o imagenes de sus amigos.
+
+6).Notificaciones: recibe notificaciones cuando tus amigos descarguen o comentan tus archivos y/o carpetas.
+
+
+	Si quieres mejoras sobre este sistema no dudes en ponerte en contacto conmigo (waptoing7@gmail.com).
+	EL sistema es de codigo abierto, puede ser utilizado para empresas o uso personal.
+
+
+	Apoyame!
+	Hay muchas formas en las que me puedes apoyar para seguir creando contenido, proyectos y actualizaciones a los sistemas
+
+
+	COMENTARIOS
+	Te invito a que dejes un comentario describiendo que tal te pareció el sistema de BELBOX con PHP, te lo agradeceré.
+
+
+
+	INSTALACIÓN Y SOPORTE TÉCNICO
+	El sistema de BELBOX es gratuito y puedes usarlo libremente para uso personal y/o comercial, pero no se brinda soporte gratuito para la instalación del sistema ni Ayuda con errores y problemas reportados. 
+
+	Si deseas contratar el servicio de soporte técnico para el sistema de 
+	BELBOX debes enviar un E-mail a: waptoing7@gmail.com, con el asunto "Soporte BELBOX", en donde se detalle el tipo de ayuda que se desea recibir. Luego se responderá mediante una cotización con el costo del servicio, forma de pago y tiempo de entrega.
+
+
+
+An production by Abisoft
+http://github.com/amnersaucedososa
